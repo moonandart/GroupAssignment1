@@ -19,8 +19,6 @@ Pipeline ini disusun dalam **11 langkah** yang mencakup: *data preprocessing, tr
 - [Step 7: Final Model + Save Artifacts](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
 - [Step 8: Inference Demo (List & CSV)](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
 - [Step 9: Export Metrics & Upload to Drive](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
-- [Step 10: Packaging ZIP + Upload](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
-- [Step 11: Auto-generate README untuk Package](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
 - [Pipeline Flowchart](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
 - [Cara Penggunaan](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
 - [Contoh Inference](https://www.notion.so/Final-Untuk-GitHub-281660e5a316803f8317f1e6bfd1b42d?pvs=21)
@@ -119,29 +117,6 @@ Pipeline ini disusun dalam **11 langkah** yang mencakup: *data preprocessing, tr
     - path artefak model/vectorizer
     - path confusion matrix
 - File disalin ke Google Drive: `/Proyek/OutputSentimentNew/reports/`.
-
----
-
-## Step 10: Packaging ZIP + Upload
-
-- Kumpulkan semua artefak:
-    - model + vectorizer
-    - laporan (`summary_metrics.md`)
-    - hasil prediksi (`predictions.csv`)
-    - confusion matrix (jika ada)
-    - contoh input (`demo_inference_input.csv`)
-- Buat **ZIP** bertimestamp di `./exports/`
-- ZIP otomatis disalin ke Google Drive: `/Proyek/OutputSentimentNew/exports/`
-
----
-
-## Step 11: Auto-generate README untuk Package
-
-- Membuat `README_package.md` berisi:
-    - daftar isi paket
-    - cara load model & vectorizer
-    - contoh inference
-- README ini ikut masuk ke dalam ZIP.
 
 ---
 
