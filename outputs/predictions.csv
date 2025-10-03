@@ -1,0 +1,4 @@
+text,source,y_pred,proba_0,proba_1,proba_2
+"Layanannya lambat banget dan sering error, saya kecewa.",demo_negatif,2,0.3192386259962822,0.3183849544254363,0.36237641957828254
+"Aplikasinya sangat membantu, fiturnya lengkap dan mudah dipakai!",demo_positif,2,0.2066238991546872,0.30469546605133113,0.48868063479398244
+"Saya baru mencoba sebentar, masih perlu waktu untuk menilai.",demo_netral,2,0.2985391586788809,0.2615535039479893,0.4399073373731291
