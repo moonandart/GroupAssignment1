@@ -133,8 +133,7 @@ Visualisasi keseluruhan alur (Step 1–11):
 3. Hasil:
     - Artefak model → `./artifacts`
     - Laporan & gambar → `./outputs`
-    - Package ZIP → `./exports` (juga tersalin ke Google Drive)
-
+   
 ---
 
 ## Contoh Inference
