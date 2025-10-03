@@ -4,7 +4,7 @@
 
 Repositori ini berisi pipeline lengkap untuk **Analisis Sentimen Teks (Bahasa Indonesia)** menggunakan **Machine Learning klasik** (Naive Bayes & Logistic Regression) dengan representasi fitur **TF-IDF n-gram**.
 
-Pipeline ini disusun dalam **11 langkah** yang mencakup: *data preprocessing, training, evaluasi, hingga packaging & deployment*.
+Pipeline ini disusun dalam **9 langkah** yang mencakup: *data preprocessing, training, evaluasi, hingga packaging & deployment*.
 
 ---
 
