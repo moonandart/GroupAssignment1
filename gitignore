@@ -1,0 +1,17 @@
+# Python / notebook
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Output/Artifacts
+artifacts/
+outputs/
+exports/
+package/
+inputs/
+*.joblib
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
