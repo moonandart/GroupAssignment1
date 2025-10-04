@@ -1,4 +1,4 @@
-# Tugas NLP 1: Sentiment Ananlisys
+# Tugas NLP 1: Sentiment Analisys Menggunakan Machine Learning
 
 Repositori ini berisi pipeline lengkap untuk **Analisis Sentimen Teks (Bahasa Indonesia)** menggunakan **Machine Learning klasik** (Naive Bayes & Logistic Regression) dengan representasi fitur **TF-IDF n-gram**.
 
